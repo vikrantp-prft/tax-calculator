@@ -1,0 +1,5 @@
+E:\Training\Practicals\Clean Code\TaxCalculator\TaxCalculator\TaxCalculator.Infrastructure\bin\Debug\TaxCalculator.Infrastructure.dll
+E:\Training\Practicals\Clean Code\TaxCalculator\TaxCalculator\TaxCalculator.Infrastructure\bin\Debug\TaxCalculator.Infrastructure.pdb
+E:\Training\Practicals\Clean Code\TaxCalculator\TaxCalculator\TaxCalculator.Infrastructure\obj\Debug\TaxCalculator.Infrastructure.csprojResolveAssemblyReference.cache
+E:\Training\Practicals\Clean Code\TaxCalculator\TaxCalculator\TaxCalculator.Infrastructure\obj\Debug\TaxCalculator.Infrastructure.dll
+E:\Training\Practicals\Clean Code\TaxCalculator\TaxCalculator\TaxCalculator.Infrastructure\obj\Debug\TaxCalculator.Infrastructure.pdb

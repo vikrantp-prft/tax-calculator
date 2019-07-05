@@ -1,0 +1,12 @@
+E:\Training\Practicals\Clean Code\TaxCalculator\TaxCalculator\TaxCalculator\bin\Debug\TaxCalculator.exe.config
+E:\Training\Practicals\Clean Code\TaxCalculator\TaxCalculator\TaxCalculator\bin\Debug\TaxCalculator.exe
+E:\Training\Practicals\Clean Code\TaxCalculator\TaxCalculator\TaxCalculator\bin\Debug\TaxCalculator.pdb
+E:\Training\Practicals\Clean Code\TaxCalculator\TaxCalculator\TaxCalculator\bin\Debug\TaxCalculator.Application.dll
+E:\Training\Practicals\Clean Code\TaxCalculator\TaxCalculator\TaxCalculator\bin\Debug\TaxCalculator.Implementation.dll
+E:\Training\Practicals\Clean Code\TaxCalculator\TaxCalculator\TaxCalculator\bin\Debug\TaxCalculator.Infrastructure.dll
+E:\Training\Practicals\Clean Code\TaxCalculator\TaxCalculator\TaxCalculator\bin\Debug\TaxCalculator.Application.pdb
+E:\Training\Practicals\Clean Code\TaxCalculator\TaxCalculator\TaxCalculator\bin\Debug\TaxCalculator.Implementation.pdb
+E:\Training\Practicals\Clean Code\TaxCalculator\TaxCalculator\TaxCalculator\bin\Debug\TaxCalculator.Infrastructure.pdb
+E:\Training\Practicals\Clean Code\TaxCalculator\TaxCalculator\TaxCalculator\obj\Debug\TaxCalculator.csprojResolveAssemblyReference.cache
+E:\Training\Practicals\Clean Code\TaxCalculator\TaxCalculator\TaxCalculator\obj\Debug\TaxCalculator.exe
+E:\Training\Practicals\Clean Code\TaxCalculator\TaxCalculator\TaxCalculator\obj\Debug\TaxCalculator.pdb
